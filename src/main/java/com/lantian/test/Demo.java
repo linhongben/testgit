@@ -10,5 +10,6 @@ package com.lantian.test;
 public class Demo {
     public static void main(String[] args) {
         System.out.println("小贵子是个傻逼");
+        System.out.println("我是3.8.2");
     }
 }
